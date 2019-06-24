@@ -1,0 +1,13 @@
+F:\Work\Freelance\Stack\Stack\bin\Debug\Stack.exe.config
+F:\Work\Freelance\Stack\Stack\bin\Debug\Stack.exe
+F:\Work\Freelance\Stack\Stack\bin\Debug\Stack.pdb
+F:\Work\Freelance\Stack\Stack\bin\Debug\Bunifu_UI_v1.5.4.dll
+F:\Work\Freelance\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+F:\Work\Freelance\Stack\Stack\obj\Debug\Stack.Form1.resources
+F:\Work\Freelance\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+F:\Work\Freelance\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+F:\Work\Freelance\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+F:\Work\Freelance\Stack\Stack\obj\Debug\Stack.csproj.CopyComplete
+F:\Work\Freelance\Stack\Stack\obj\Debug\Stack.exe
+F:\Work\Freelance\Stack\Stack\obj\Debug\Stack.pdb
+F:\Work\Freelance\Stack\Stack\obj\Debug\Stack.Alert.resources
